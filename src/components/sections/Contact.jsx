@@ -18,10 +18,10 @@ const Contact = () => {
   };
 
   const socials = [
-    { name: 'Github', href: '#', icon: Github, color: 'blue' },
+    { name: 'Github', href: 'https://github.com/Ryezenn', icon: Github, color: 'blue' },
     { name: 'LinkedIn', href: '#', icon: Linkedin, color: 'purple' },
     { name: 'Instagram', href: '#', icon: Instagram, color: 'pink' },
-    { name: 'Email', href: 'mailto:rehan@example.com', icon: Mail, color: 'cyan' }
+    { name: 'Email', href: 'mailto:zarukayaagami@gmail.com', icon: Mail, color: 'cyan' }
   ];
 
   return (
