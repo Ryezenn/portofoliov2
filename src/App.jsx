@@ -140,7 +140,7 @@ function App() {
           {/* Premium footer with glowing matrix details */}
           <footer className="relative z-10 border-t border-white/5 py-10 bg-dark-bg text-center text-xs text-slate-500 font-mono">
             <div className="max-w-6xl mx-auto px-6 flex flex-col md:flex-row items-center justify-between gap-4">
-              <span>// DESIGNED & ENGINEERED BY REHAN // © 2026</span>
+              <span>// DESIGNED & ENGINEERED BY REHAN | WEB & APP DEV // © 2026</span>
               <div className="flex items-center gap-6">
                 <a href="#home" className="hover:text-neon-blue transition-colors">BACK TO TOP</a>
                 <span>•</span>
