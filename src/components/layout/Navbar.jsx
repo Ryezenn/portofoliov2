@@ -62,7 +62,7 @@ const Navbar = () => {
               <Cpu className="w-4 h-4 text-neon-blue" />
             </motion.div>
             <span className="font-heading font-extrabold tracking-wider text-base bg-gradient-to-r from-neon-blue via-neon-purple to-neon-pink bg-clip-text text-transparent group-hover:filter group-hover:brightness-125 transition-all">
-              REHAN.IO
+              REHAN | WEB & APP DEV
             </span>
           </a>
 
